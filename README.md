@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – Felipe Ivo da Silva
+# 🌐 Personal Portfolio – João Marco Salvador do Nascimento
 
 ## 📷 Preview
 
@@ -88,3 +88,4 @@ You may use and adapt it freely, with proper reference.
 Researcher & University Professor  
 📧 Email: *felipe_ivodasilva@hotmail.com*  
 🔗 LinkedIn: *www.linkedin.com/in/felipe-ivo*  
+
