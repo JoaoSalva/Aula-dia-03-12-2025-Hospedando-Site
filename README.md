@@ -8,8 +8,9 @@ Here is a preview of the final result of the website:
 [🔗 Open Portfolio](https://felipivo.github.io/portifolio.github.io/)
 ![Cover](cover.png)
 
-This repository contains the source code for my personal portfolio website, developed as an example for my **Multiplatform Software Development** students.  
-The goal is to demonstrate how to build and deploy a professional personal portfolio using **HTML, CSS, and JavaScript**, and host it using **GitHub Pages**.
+This repository contains the source code for a student exercise in the Multiplatform Software Development (Desenvolvimento de Software Multiplataforma - DSM) course.
+
+The main objective of this lesson was to learn the entire process of cloning, customizing, and deploying a static website (developed using HTML, CSS, and JavaScript) and successfully hosting it live using GitHub Pages.
 
 ---
 
@@ -88,5 +89,6 @@ You may use and adapt it freely, with proper reference.
 Researcher & University Professor  
 📧 Email: **  
 🔗 LinkedIn: **  
+
 
 
