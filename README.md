@@ -86,6 +86,7 @@ You may use and adapt it freely, with proper reference.
 
 **Felipe Ivo da Silva**  
 Researcher & University Professor  
-📧 Email: *felipe_ivodasilva@hotmail.com*  
-🔗 LinkedIn: *www.linkedin.com/in/felipe-ivo*  
+📧 Email: **  
+🔗 LinkedIn: **  
+
 
